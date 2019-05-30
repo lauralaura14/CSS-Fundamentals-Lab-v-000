@@ -10,7 +10,8 @@ body {
 }
 
 p {
-  max-width: 50%;
+  width: 200px;
+  word-wrap: break-word;
 }
 
 nav a {
