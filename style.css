@@ -5,25 +5,11 @@ body {
 }
 
 #details {
-  text-align: center;
-
   background-color: red;
 }
 
-nav {
-  text-align: center;
-}
+
 
 nav a {
   background-color: #D3D3D3;
-  background-size:
-}
-
-h1 {
-  text-align: center;
-}
-
-p {
-  text-align: center;
-
 }
