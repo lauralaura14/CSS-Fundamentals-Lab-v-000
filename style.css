@@ -5,11 +5,6 @@ body {
   text-align: center;
 }
 
-#details div {
-  float: left;
-  background-color: red;
-  width: 25%;
-}
 
 #featured-property p {
   width: 800px;
@@ -18,4 +13,10 @@ body {
 
 nav a {
   background-color: #D3D3D3;
+}
+
+#details div {
+  float: left;
+  background-color: red;
+  width: 25%;
 }
