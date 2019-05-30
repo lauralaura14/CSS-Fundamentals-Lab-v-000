@@ -7,6 +7,7 @@ body {
 
 #details {
   background-color: red;
+  display: block;
 }
 
 #featured-property p {
