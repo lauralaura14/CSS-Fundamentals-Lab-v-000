@@ -10,7 +10,7 @@ body {
 }
 
 p {
-  display: inline-block;
+  max-width: 50%;
 }
 
 nav a {
