@@ -10,7 +10,7 @@ body {
 }
 
 p {
-  width: 400px;
+  max-width: 200px;
 }
 
 nav a {
