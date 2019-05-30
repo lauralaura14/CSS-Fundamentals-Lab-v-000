@@ -8,6 +8,7 @@ body {
 #details div {
   float: left;
   background-color: red;
+  width: 25%;
 }
 
 #featured-property p {
